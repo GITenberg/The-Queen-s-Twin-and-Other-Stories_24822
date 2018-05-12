@@ -1,0 +1,33 @@
+_repo: The-Queen-s-Twin-and-Other-Stories_24822
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Jewett, Sarah Orne
+    birthdate: 1849
+    deathdate: 1909
+    gutenberg_agent_id: '202'
+    url: http://www.gutenberg.org/2009/agents/202
+    wikipedia: http://en.wikipedia.org/wiki/Sarah_Orne_Jewett
+description: ''
+gutenberg_issued: '2008-03-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24822'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcsh 'Women -- Fiction'
+- !lcsh 'United States -- Social life and customs -- 19th century -- Fiction'
+- !lcsh 'New England -- Social life and customs -- Fiction'
+- !lcc 'PZ'
+tableOfContents: The queen's twin -- A Dunnet shepherdess -- Where's Nora? -- Bold
+  words at the bridge -- Martha's lady -- The coon dog -- Aunt Cynthy Dallett -- The
+  night before Thanksgiving.
+title: The Queen's Twin and Other Stories
+url: http://www.gutenberg.org/ebooks/24822
